@@ -411,14 +411,19 @@ window.COLLECTION = {
     {
      "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-ca-01.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦА-02",
@@ -433,14 +438,19 @@ window.COLLECTION = {
     {
      "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-ca-02.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦА-03",
@@ -3299,14 +3309,19 @@ window.COLLECTION = {
     {
      "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-vuz-04.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ВУЗ-05",
@@ -3365,14 +3380,19 @@ window.COLLECTION = {
     {
      "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-vuz-07.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ВУЗ-08",
@@ -3387,14 +3407,19 @@ window.COLLECTION = {
     {
      "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-vuz-08.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ВУЗ-09",
@@ -3497,14 +3522,19 @@ window.COLLECTION = {
     {
      "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-sp-03.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "СП-04",
@@ -3702,16 +3732,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-02.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-03",
@@ -3724,16 +3759,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-03.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-04",
@@ -3746,16 +3786,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-04.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-05",
@@ -3768,16 +3813,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-05.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-06",
@@ -3790,16 +3840,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-06.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-07",
@@ -3856,16 +3911,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-09.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-10",
@@ -3900,16 +3960,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-11.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-12",
@@ -3922,16 +3987,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-12.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-13",
@@ -3944,16 +4014,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-13.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-14",
@@ -3966,16 +4041,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-14.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-15",
@@ -3988,16 +4068,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-15.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-16",
@@ -4010,16 +4095,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-16.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-17",
@@ -4032,16 +4122,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-cn-17.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ЦН-18",
@@ -4164,16 +4259,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pso-01.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПСО-02",
@@ -4186,16 +4286,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pso-02.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПСО-03",
@@ -4208,16 +4313,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pso-03.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПСО-04",
@@ -4230,16 +4340,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pso-04.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПСО-05",
@@ -4252,16 +4367,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pso-05.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПСО-06",
@@ -4274,16 +4394,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pso-06.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПСО-07",
@@ -4296,16 +4421,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pso-07.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПСО-08",
@@ -4318,16 +4448,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pso-08.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПР-01",
@@ -4340,16 +4475,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pr-01.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПР-02",
@@ -4362,16 +4502,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pr-02.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПР-03",
@@ -4406,16 +4551,21 @@ window.COLLECTION = {
    "desc": "",
    "variants": [
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/ref-pr-04.webp",
      "qty": 0,
      "donor": "",
      "note": "",
      "date": ""
     }
    ],
-   "note": ""
+   "note": "",
+   "ref": {
+    "kind": "drawing",
+    "text": "Рисунок из приказа МЧС России от 29.03.2022 № 280",
+    "url": "prikazy/prikaz-mchs-280-2022.pdf"
+   }
   },
   {
    "id": "ПР-05",

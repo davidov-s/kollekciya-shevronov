@@ -232,3 +232,7 @@ a.btn{text-decoration:none;color:inherit}
 @media (prefers-color-scheme:dark){.pill.swap{background:#1C2E4A;color:#9CC2F2}}
 .swapbox{background:#E6EEF9}
 @media (prefers-color-scheme:dark){.swapbox{background:#1C2A40;color:var(--ink)}}
+
+.refchip{position:absolute;left:8px;bottom:8px;background:rgba(10,16,28,.72);color:#E9DDBB;font:600 10px var(--f-body);letter-spacing:.06em;text-transform:uppercase;border-radius:4px;padding:2px 6px}
+.refcap{color:#D8CBA6;font-size:12px;text-align:center;max-width:36ch;line-height:1.4}
+.refcap a{color:#E7C477}
