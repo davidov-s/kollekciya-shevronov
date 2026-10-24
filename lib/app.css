@@ -35,6 +35,7 @@ h1{font-family:var(--f-display);font-weight:700;font-size:clamp(24px,4.2vw,40px)
 .btn.danger{color:var(--signal);border-color:var(--signal)}
 .btn.small{min-height:32px;padding:4px 10px;font-size:13px}
 .btn[aria-pressed="true"]{background:var(--gold-soft);border-color:var(--gold);color:var(--gold-ink)}
+.btn.qrbtn[aria-pressed="true"]{background:var(--gold);border-color:var(--gold);color:#fff}
 .btn svg{width:18px;height:18px;flex:none}
 /* stats */
 .stats{display:flex;flex-wrap:wrap;gap:0;margin:18px 0 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
