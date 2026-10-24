@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Инструкция — каталог шевронов</title>
+<link rel="stylesheet" href="lib/fonts.css">
+<style>
+:root{--bg:#EDF0F4;--surface:#fff;--ink:#142033;--muted:#5A667A;--line:#D3DAE4;--gold:#A87618;--gold-soft:#F4E8CC}
+@media (prefers-color-scheme:dark){:root{--bg:#0C131F;--surface:#141E2F;--ink:#E6EBF2;--muted:#93A0B4;--line:#25324A;--gold:#D8AD52;--gold-soft:#33291A;color-scheme:dark}}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Golos Text",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:32px 16px 64px}
+h1{font-family:Unbounded,system-ui,sans-serif;font-weight:700;font-size:28px;line-height:1.15;margin:0 0 8px}
+h2{font-family:Unbounded,system-ui,sans-serif;font-weight:500;font-size:19px;margin:36px 0 10px;padding-top:18px;border-top:1px solid var(--line)}
+h3{font-size:16px;margin:20px 0 6px}
+p,li{max-width:66ch}
+ol,ul{padding-left:22px}
+li{margin:4px 0}
+code{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:14px;background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:1px 5px}
+.lead{color:var(--muted)}
+.note{background:var(--gold-soft);border-radius:8px;padding:12px 16px}
+pre{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:14px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 16px;overflow-x:auto}
+a{color:var(--gold)}
+</style>
+</head>
+<body><main>
+<h1>Каталог шевронов: как пользоваться</h1>
+<p class="lead">Каталог — это папка с файлами. Он открывается в браузере без интернета, правится прямо на компьютере, а копию той же папки можно выложить в интернет для QR-кода.</p>
+
+<h2>Что лежит в папке</h2>
+<pre>index.html           — каталог (открывать его)
+data/collection.js   — все данные: знаки, разделы, приказы, настройки
+data/backup/         — резервные копии данных, создаются при каждом сохранении
+photos/              — фотографии знаков
+prikazy/             — тексты приказов (PDF)
+lib/                 — оформление, шрифты, генератор QR (не трогать)</pre>
+
+<h2>1. Установка на Яндекс Диск</h2>
+<ol>
+<li>Распакуйте архив и положите папку <code>kollekciya-shevronov</code> в папку Яндекс Диска на компьютере.</li>
+<li>Откройте <code>index.html</code> двойным щелчком. Лучше в Chrome, Microsoft Edge или Яндекс Браузере: в них работает сохранение прямо в папку.</li>
+</ol>
+<p class="note">Если в настройках Яндекс Диска для папки включён режим «только в облаке», сначала сделайте её доступной офлайн: иначе фото не откроются.</p>
+
+<h2>2. Редактирование</h2>
+<ol>
+<li>Нажмите <b>Редактировать</b> в правом верхнем углу.</li>
+<li><b>+ Знак</b> — новый шеврон. Выберите раздел, впишите название, для иностранных знаков — страну. Внизу формы, в «Вариантах исполнения», добавьте фото, приказ, количество, кто передал.</li>
+<li>Чтобы изменить существующий знак, откройте его карточку и нажмите <b>Изменить</b>.</li>
+<li><b>+ Приказ</b> — новый нормативный акт: номер, дата, статус, ссылка на текст в интернете и файл PDF.</li>
+<li><b>+ Раздел</b> — новый раздел, например отдельный раздел для страны или ведомства. Кнопка <b>Раздел</b> у заголовка раздела переименовывает его.</li>
+<li>Внизу появится полоса «Несохранённых изменений». Нажмите <b>Сохранить в папку</b>. В первый раз браузер попросит выбрать папку: укажите <code>kollekciya-shevronov</code> и разрешите изменения. Дальше в этом окне папка запоминается.</li>
+</ol>
+<p>Фото при сохранении уменьшаются до 1000 пикселей по длинной стороне и записываются в <code>photos/</code>. Прежняя версия данных копируется в <code>data/backup/</code>: если что-то пошло не так, переименуйте нужную копию в <code>collection.js</code> и положите в <code>data/</code>.</p>
+<p>В Firefox сохранение в папку не работает: браузер скачает файл <code>collection.js</code>, им нужно заменить файл в <code>data/</code>.</p>
+<p><b>Таблица CSV</b> выгружает весь список для Excel.</p>
+
+<h2>3. Веб-версия для QR-кода</h2>
+<p>Яндекс Диск хранит файлы, но не показывает их как сайт. Для QR-кода папку нужно выложить на хостинг. Посетители сайта могут только смотреть: редактирование работает лишь на вашем компьютере.</p>
+
+<h3>Вариант А. GitHub Pages — бесплатно</h3>
+<ol>
+<li>Зарегистрируйтесь на <a href="https://github.com" target="_blank" rel="noopener">github.com</a>.</li>
+<li>Создайте репозиторий (New repository) с именем <code>kollekciya-shevronov</code>, тип Public.</li>
+<li>Установите <a href="https://desktop.github.com" target="_blank" rel="noopener">GitHub Desktop</a>, войдите и выполните Clone этого репозитория в папку Яндекс Диска.</li>
+<li>Скопируйте содержимое папки каталога в склонированную папку. В GitHub Desktop: впишите комментарий → <b>Commit to main</b> → <b>Push origin</b>.</li>
+<li>На сайте GitHub: репозиторий → Settings → Pages → Source: <i>Deploy from a branch</i>, ветка <code>main</code>, папка <code>/ (root)</code> → Save.</li>
+<li>Через 1–2 минуты сайт откроется по адресу <code>https://ВАШ-ЛОГИН.github.io/kollekciya-shevronov/</code>.</li>
+</ol>
+<p>После каждой правки каталога: GitHub Desktop → Commit → Push. Сайт обновится сам за пару минут.</p>
+
+<h3>Вариант Б. Yandex Cloud Object Storage — российский хостинг</h3>
+<ol>
+<li>В <a href="https://console.yandex.cloud" target="_blank" rel="noopener">консоли Yandex Cloud</a> создайте платёжный аккаунт. Хранение такого каталога стоит несколько рублей в месяц.</li>
+<li>Object Storage → Создать бакет: имя, например <code>kollekciya-shevronov</code>, доступ на чтение объектов — публичный.</li>
+<li>Загрузите в бакет всё содержимое папки каталога с сохранением подпапок.</li>
+<li>В бакете: Веб-сайт → Хостинг → главная страница <code>index.html</code> → Сохранить.</li>
+<li>Адрес сайта: <code>https://kollekciya-shevronov.website.yandexcloud.net</code>.</li>
+</ol>
+<p>После правок загружайте изменённые файлы: <code>data/collection.js</code>, новые фото и PDF.</p>
+
+<h2>4. QR-код</h2>
+<ol>
+<li>Откройте каталог на компьютере → <b>Редактировать</b> → <b>Настройки</b> → впишите адрес сайта → Готово → <b>Сохранить в папку</b>.</li>
+<li>Вкладка <b>QR-код</b> → <b>Скачать PNG для печати</b>. Этот код откроет сайт на любом телефоне.</li>
+<li>Опубликуйте обновлённые файлы на хостинге (п. 3), чтобы адрес попал и в веб-версию.</li>
+</ol>
+<p>В настройках можно выключить показ имён тех, кто передал знаки: на сайте они будут скрыты, на вашем компьютере останутся.</p>
+</main></body>
+</html>
