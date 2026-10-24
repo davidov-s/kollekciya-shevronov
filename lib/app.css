@@ -227,3 +227,8 @@ a.btn{text-decoration:none;color:inherit}
 @media (max-width:820px){.owner{grid-template-columns:minmax(0,1fr)}}
 
 .kv a,.act a{color:var(--gold-ink)}
+
+.pill.swap{background:#DCE8F7;color:#1F4E8C}
+@media (prefers-color-scheme:dark){.pill.swap{background:#1C2E4A;color:#9CC2F2}}
+.swapbox{background:#E6EEF9}
+@media (prefers-color-scheme:dark){.swapbox{background:#1C2A40;color:var(--ink)}}
