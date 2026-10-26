@@ -154,6 +154,9 @@ summary{cursor:pointer;color:var(--muted);font-size:13px;font-weight:600;letter-
 .fld input,.fld select,.fld textarea{border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:8px 10px;min-height:40px;width:100%}
 .fld textarea{min-height:80px;resize:vertical}
 .var{border:1px solid var(--line);border-radius:10px;padding:12px;display:grid;grid-template-columns:110px minmax(0,1fr);gap:12px}
+.var .vhead{grid-column:1/-1;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.var .vhead .sp{flex:1}
+.var .vhead .cover{font-size:12px;background:var(--gold-soft);color:var(--gold-ink);border-radius:999px;padding:2px 8px}
 .var .pv{aspect-ratio:4/5;border-radius:8px;background:var(--stand);display:grid;place-items:center;overflow:hidden}
 .var .pv img{width:88%;height:88%;object-fit:contain}
 .var .pv span{color:#C9B27A;font-size:11px}
