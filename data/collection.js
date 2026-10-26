@@ -11,7 +11,7 @@ window.COLLECTION = {
   "owner": {
    "name": "Давыдов Сергей Сергеевич",
    "about": "",
-   "phone": "",
+   "phone": "+7926-213-0006",
    "email": "S.Davydov@academygps.ru",
    "telegram": "",
    "other": "",
