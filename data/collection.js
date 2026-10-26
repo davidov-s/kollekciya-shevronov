@@ -12,8 +12,8 @@ window.COLLECTION = {
    "name": "Давыдов Сергей Сергеевич",
    "about": "",
    "phone": "+7926-213-0006",
-   "email": "S.Davydov@academygps.ru",
-   "telegram": "",
+   "email": "Davidov-s@yandex.ru",
+   "telegram": "@SS_Davydov",
    "other": "",
    "cta": "Если у вас есть шевроны для коллекции или вы хотите обменяться — свяжитесь со мной."
   }
