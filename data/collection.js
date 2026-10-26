@@ -525,20 +525,20 @@ window.COLLECTION = {
    "variants": [
     {
      "act": "mchs-280",
-     "label": "РОССИЯ",
+     "label": "Вариант 1",
      "photo": "photos/ref-ca-05.webp",
      "qty": 0,
      "donor": "",
-     "note": "",
+     "note": "РОССИЯ",
      "date": ""
     },
     {
      "act": "mchs-280",
-     "label": "RUSSIA",
+     "label": "Вариант 2",
      "photo": "photos/ref-ca-05-en.webp",
      "qty": 0,
      "donor": "",
-     "note": "",
+     "note": "RUSSIA",
      "date": ""
     }
    ],
@@ -1867,20 +1867,20 @@ window.COLLECTION = {
    "variants": [
     {
      "act": "mchs-280",
-     "label": "два флага России",
+     "label": "Вариант 1",
      "photo": "photos/gu-20-1.webp",
      "qty": 1,
      "donor": "",
-     "note": "",
+     "note": "Два флага России",
      "date": ""
     },
     {
      "act": "mchs-280",
-     "label": "флаг России и флаг Чеченской Республики",
+     "label": "Вариант 2",
      "photo": "photos/gu-20-2.webp",
      "qty": 1,
      "donor": "",
-     "note": "",
+     "note": "Флаг России и флаг Чеченской Республики",
      "date": ""
     }
    ],
@@ -2364,20 +2364,20 @@ window.COLLECTION = {
    "variants": [
     {
      "act": "mchs-280",
-     "label": "золотистый орёл",
+     "label": "Вариант 1",
      "photo": "photos/gu-40-1.webp",
      "qty": 1,
      "donor": "Курсант уч. гр. 1422\n Бикеев Павел",
-     "note": "",
+     "note": "Золотистый орёл",
      "date": ""
     },
     {
      "act": "mchs-280",
-     "label": "орёл оливкового оттенка",
+     "label": "Вариант 2",
      "photo": "photos/gu-40-2.webp",
      "qty": 1,
      "donor": "",
-     "note": "Второе исполнение, от кого получен — не указано",
+     "note": "Орёл оливкового оттенка. Второе исполнение, от кого получен — не указано",
      "date": ""
     }
    ],
@@ -2738,20 +2738,20 @@ window.COLLECTION = {
    "variants": [
     {
      "act": "mchs-280",
-     "label": "чёрное поле",
+     "label": "Вариант 1",
      "photo": "photos/gu-55-1.webp",
      "qty": 1,
      "donor": "",
-     "note": "",
+     "note": "Чёрное поле",
      "date": ""
     },
     {
      "act": "mchs-280",
-     "label": "тёмно-синее поле, бирюзовая окантовка",
+     "label": "Вариант 2",
      "photo": "photos/gu-55-2.webp",
      "qty": 1,
      "donor": "",
-     "note": "",
+     "note": "Тёмно-синее поле, бирюзовая окантовка",
      "date": ""
     }
    ],
