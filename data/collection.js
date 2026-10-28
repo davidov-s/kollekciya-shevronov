@@ -1748,7 +1748,7 @@ window.COLLECTION = {
     {
      "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/gu-15-1.webp",
      "qty": 1,
      "donor": "Курсант уч. гр. 1421\nАмбалов",
      "note": "",
@@ -2782,16 +2782,25 @@ window.COLLECTION = {
      "photo": "photos/gu-56-1.webp",
      "qty": 1,
      "donor": "ЗНЧ Оренбургская область\nБогданов Роман Юрьевич",
-     "note": "",
+     "note": "Жёлтая вышивка, золотистая окантовка.",
      "date": ""
     },
     {
-     "act": "",
+     "act": "mchs-280",
      "label": "Вариант 2",
-     "photo": "",
+     "photo": "photos/gu-56-2.webp",
      "qty": 1,
      "donor": "",
-     "note": "Второй образец — по другому приказу (уточнить)",
+     "note": "Жёлтая вышивка, зелёная окантовка.",
+     "date": ""
+    },
+    {
+     "act": "mchs-280",
+     "label": "Вариант 3",
+     "photo": "photos/gu-56-3.webp",
+     "qty": 1,
+     "donor": "",
+     "note": "Металлизированная (золотистая) вышивка.",
      "date": ""
     }
    ],
@@ -3180,7 +3189,7 @@ window.COLLECTION = {
     {
      "act": "mchs-280",
      "label": "",
-     "photo": "",
+     "photo": "photos/gu-72-1.webp",
      "qty": 1,
      "donor": "",
      "note": "",
@@ -3657,11 +3666,20 @@ window.COLLECTION = {
    "variants": [
     {
      "act": "mchs-304",
-     "label": "",
+     "label": "Вариант 1",
      "photo": "photos/vuz-02-1.webp",
      "qty": 1,
      "donor": "",
-     "note": "Приказ определён по фото: чёрное поле, пропорции щита ≈110×95 мм (как в приказе №304). Проверить.",
+     "note": "Приказ определён по фото: чёрное поле, пропорции щита ≈110×95 мм (как в приказе №304). Проверить. Салатовая вышивка.",
+     "date": ""
+    },
+    {
+     "act": "mchs-304",
+     "label": "Вариант 2",
+     "photo": "photos/vuz-02-2.webp",
+     "qty": 1,
+     "donor": "",
+     "note": "Жёлтая вышивка, чёрное поле.",
      "date": ""
     }
    ],
@@ -3836,7 +3854,7 @@ window.COLLECTION = {
     {
      "act": "mchs-304",
      "label": "",
-     "photo": "",
+     "photo": "photos/vuz-09-1.webp",
      "qty": 1,
      "donor": "Преподаватель кафедры НД(в составе УНК ОНД) \nСоколов Сергей Сергеевич",
      "note": "",
@@ -4619,7 +4637,7 @@ window.COLLECTION = {
     {
      "act": "",
      "label": "",
-     "photo": "",
+     "photo": "photos/cn-21-1.webp",
      "qty": 1,
      "donor": "Сайфулов",
      "note": "",
