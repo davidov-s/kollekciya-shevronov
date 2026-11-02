@@ -16,7 +16,8 @@ window.COLLECTION = {
    "telegram": "@SS_Davydov",
    "other": "",
    "cta": "Если у вас есть шевроны для коллекции или вы хотите обменяться — свяжитесь со мной."
-  }
+  },
+  "rev": "mvyyn8bz"
  },
  "sections": [
   {
