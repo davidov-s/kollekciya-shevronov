@@ -17,7 +17,7 @@ window.COLLECTION = {
    "other": "",
    "cta": "Если у вас есть шевроны для коллекции или вы хотите обменяться — свяжитесь со мной."
   },
-  "rev": "mw366dr9"
+  "rev": "mw380xnz"
  },
  "sections": [
   {
@@ -5414,7 +5414,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/in-19-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Смыгалин С.Н.",
      "note": "",
      "date": ""
     }
@@ -5437,7 +5437,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/in-20-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Смыгалин С.Н.",
      "note": "",
      "date": ""
     }
@@ -5460,7 +5460,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/in-21-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Смыгалин С.Н.",
      "note": "",
      "date": ""
     }
@@ -5483,7 +5483,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/in-22-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Смыгалин С.Н.",
      "note": "",
      "date": ""
     }
@@ -5506,7 +5506,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/in-23-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Смыгалин С.Н.",
      "note": "",
      "date": ""
     }
@@ -5529,7 +5529,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/in-24-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Смыгалин С.Н.",
      "note": "",
      "date": ""
     }
@@ -5552,7 +5552,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/in-25-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Смыгалин С.Н.",
      "note": "",
      "date": ""
     }
@@ -5575,7 +5575,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/in-26-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Смыгалин С.Н.",
      "note": "",
      "date": ""
     }
