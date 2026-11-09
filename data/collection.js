@@ -17,7 +17,7 @@ window.COLLECTION = {
    "other": "",
    "cta": "Если у вас есть шевроны для коллекции или вы хотите обменяться — свяжитесь со мной."
   },
-  "rev": "mw8tc58x"
+  "rev": "mw8th6h5"
  },
  "sections": [
   {
@@ -4297,7 +4297,7 @@ window.COLLECTION = {
      "label": "",
      "photo": "photos/spsch-04-1.webp",
      "qty": 1,
-     "donor": "",
+     "donor": "Горьков М.И.",
      "note": "",
      "date": ""
     }
